@@ -1,4 +1,6 @@
 
-streamlit==1.45.1
+streamlit
 pandas
 scikit-learn
+yfinance
+plotly
